@@ -1,6 +1,6 @@
 # Reto de Carrusel Básico con HTML, CSS y JavaScript
 
-![Design preview for the Carousel component coding challenge](./assets/mockup.jpg)
+![Design preview for the Carousel component coding challenge](./assets/mockup.png)
 
 Este proyecto consiste en resolver un reto de desarrollo web en el que se debe crear un carrusel básico utilizando HTML, CSS y JavaScript. El objetivo principal es crear un componente funcional que permita a los usuarios navegar entre tres imágenes predeterminadas.
 
